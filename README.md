@@ -1,5 +1,5 @@
 # 2023-OSS
-2023 2학기 오픈소스소프트웨어 교과목
+
 
 ## 깃과 깃허브를 사랑하기 위한 유튜브 영상
 - [드림코딩 깃과 깃허브 기초 6분](https://www.youtube.com/watch?v=lPrxhA4PLoA)
